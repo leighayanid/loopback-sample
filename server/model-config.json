@@ -36,11 +36,11 @@
     "public": false
   },
   "student": {
-    "dataSource": "db",
+    "dataSource": "mongodb",
     "public": true
   },
   "school": {
-    "dataSource": "db",
+    "dataSource": "mongodb",
     "public": true
   }
 }
